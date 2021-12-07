@@ -1,0 +1,6 @@
+obj
+bin
+coverage
+docs
+*.gc*
+/testMobileIT
